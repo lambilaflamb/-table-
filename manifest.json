@@ -1,0 +1,9 @@
+{
+  "name": "À table — Carnet de recettes",
+  "short_name": "À table",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#285943",
+  "icons": []
+}
