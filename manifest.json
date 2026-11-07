@@ -1,0 +1,9 @@
+{
+  "name": "À table — Recettes & batch cooking",
+  "short_name": "À table",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#234b3b",
+  "icons": []
+}
